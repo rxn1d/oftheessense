@@ -1,0 +1,6 @@
+baseURL = 'http://oftheessense.com/'
+languageCode = 'en-us'
+title = 'OfTheEssense'
+theme = 'PaperMod'
+
+
