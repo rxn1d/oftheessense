@@ -1,6 +1,7 @@
 baseURL = 'http://oftheessense.com/'
 languageCode = 'en-us'
-title = 'OfTheEssense'
+title = 'Of The Essense'
 theme = 'PaperMod'
 
-
+[params]
+  ShowReadingTime = true
