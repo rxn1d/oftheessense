@@ -2,6 +2,7 @@ baseURL = 'http://oftheessense.com/'
 languageCode = 'en-us'
 title = 'Of The Essense'
 theme = 'PaperMod'
+googleAnalytics = "G-QV5CBPXJ7Q"
 
 [params]
   ShowReadingTime = true
